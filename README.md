@@ -21,7 +21,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dqanshi&layout=compact&theme=cobalt)](https://github.com/dqanshi)
 
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> who am i...  
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> thug life...  
 
 
 
