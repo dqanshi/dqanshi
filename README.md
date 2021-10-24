@@ -35,7 +35,8 @@
 
 
 
-
+## 🎵 Now playing
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://spotify.com/)
 
 
 <h3 alilefgn="left">i know :</h3>
