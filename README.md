@@ -36,11 +36,8 @@
 
 
 ## 🎵 Now Playing
-<p align="center">
-  <a href="https://spotify.com/">
-    <img src="https://novatorem.vercel.app/api/spotify" alt="Spotify Now Playing" />
-  </a>
-</p>
+
+[![Spotify](https://spotify-github-profile.vercel.app/api/spotify)](https://open.spotify.com/user/spotify)
 
 
 
