@@ -35,8 +35,13 @@
 
 
 
-## 🎵 Now playing
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://spotify.com/)
+## 🎵 Now Playing
+<p align="center">
+  <a href="https://spotify.com/">
+    <img src="https://novatorem.vercel.app/api/spotify" alt="Spotify Now Playing" />
+  </a>
+</p>
+
 
 
 <h3 alilefgn="left">i know :</h3>
