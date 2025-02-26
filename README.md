@@ -37,7 +37,7 @@
 
 ## 🎵 Now Playing
 
-[![Spotify](https://spotify-github-profile.vercel.app/api/spotify)](https://open.spotify.com/user/spotify)
+![Spotify Now Playing](https://novatorem.vercel.app/api/spotify?timestamp=123456)
 
 
 
