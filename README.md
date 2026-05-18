@@ -56,6 +56,13 @@
 ![Local Time](https://readmeme.eu.cc/api/time.svg?theme=retro&timezone=America/New_York&timeFormat=12h&showSeconds=0&showDate=0&showDay=0&label=NYC)
 
 
+<div>
+    <img width="550" src="https://user-images.githubusercontent.com/399657/50862221-1d904a00-1369-11e9-891c-5f4e9fbb9ec0.gif" />
+  </div>
+
+
+
+
 
 ![Daily Quote](https://readmeme.eu.cc/api/quote.svg?theme=ocean&quoteCategory=programming&label=Daily+Wisdom)
 
