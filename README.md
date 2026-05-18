@@ -24,7 +24,87 @@
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> thug life...  
 
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=SPACE-TIME%20ENGINE&fontSize=42&fontColor=00F5FF&color=0:050816,50:091540,100:000000&animation=fadeIn" width="100%"/>
+</p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=2500&pause=800&color=00FFFF&center=true&vCenter=true&width=900&lines=🌍+Real-Time+Earth+Simulation;☀️+Solar+System+Engine+Online;🌌+Galaxy+Visualization+Running;🛰️+Live+NASA+Space+Feeds;🚀+Tracking+Deep+Space"/>
+</p>
+
+---
+
+<div align="center">
+
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2I2b2Y2b2txaXF2Zm11MWF3NnF6OGM3d2QzY2F6d2h2YWN2bHFnZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlQ7LRalQqdWfao/giphy.gif" width="49%"/>
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTNhZWhkM3l5OTQ4YndhZW8xcmNvb3U4dWh3YjM5eTQ3dHNnbnE1eSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7TKtnuHOHHUjR38Y/giphy.gif" width="49%"/>
+
+</div>
+
+---
+
+# 🌌 SPACE-TIME STATUS
+
+```yaml
+🌍 Earth Rotation   : ACTIVE
+☀️ Solar Activity   : MONITORING
+🌌 Galaxy Engine    : ONLINE
+🛰️ Satellite Grid   : CONNECTED
+🚀 NASA Feed        : LIVE
+⏳ Space-Time Sync  : STABLE
+```
+
+---
+
+# 🛰️ LIVE SPACE NEWS
+
+<!--START_SECTION:space-news-->
+
+- 🚀 Loading latest NASA updates...
+
+<!--END_SECTION:space-news-->
+
+---
+
+# ☀️ SOLAR SYSTEM CORE
+
+<p align="center">
+  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="100%"/>
+</p>
+
+---
+
+# 🌍 EARTH DAY / NIGHT ENGINE
+
+<p align="center">
+  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="100%"/>
+</p>
+
+---
+
+# 🌌 GALAXY MATRIX
+
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%"/>
+</p>
+
+---
+
+# 🚀 SYSTEM LOGS
+
+```diff
++ ORBIT SYSTEM ONLINE
++ SATELLITE LINK ACTIVE
++ NASA API CONNECTED
++ GALAXY VISUALIZER RUNNING
++ SPACE-TIME SYNCHRONIZED
+```
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:000000,50:00172D,100:00FFFF" width="100%"/>
+</p>
 
 
 
