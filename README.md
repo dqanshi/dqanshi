@@ -37,6 +37,9 @@
 
 ## 🎵 Now Playing
 
+&nbsp;<div align="center">
+  [![Last.fm](https://novatorem.vercel.app/api/orchestrator?background_type=blur_dark&border_color=ffffff")](https://novatorem.vercel.app/redirect)
+  
 ![Spotify Now Playing](https://novatorem.vercel.app/api/spotify?timestamp=123456)
 
 
