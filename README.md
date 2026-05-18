@@ -26,13 +26,16 @@
 
 
 
+<p align="center">
+  <a href="https://moon-svg.minung.dev">
+    <img src="https://moon-svg.minung.dev/moon.svg?theme=basic" alt="Moon SVG">
+  </a>
+</p>
 
 
 
 
-
-![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=JeffreyCA01&bg_color=000000)
-
+![Now Playing](https://readmeme.eu.cc/api/music.svg?theme=terminal&musicSong=Smells+Like+Teen+Spirit&musicArtist=Nirvana&musicListen=Now+Playing&musicPlatform=ytmusic)
 
 
 ## 🎵 Now Playing
@@ -40,6 +43,21 @@
 &nbsp;<div align="center">
   [![Last.fm](https://novatorem.vercel.app/api/orchestrator?background_type=blur_dark&border_color=ffffff")](https://novatorem.vercel.app/redirect)
   
+
+
+![Now Playing](https://readmeme.eu.cc/api/music.svg?theme=ink&musicSong=Tera+Intezaar&musicArtist=Rahat+Fateh+Ali+Khan&musicListen=On+Repeat&musicPlatform=soundcloud)
+
+
+
+
+![Local Time](https://readmeme.eu.cc/api/time.svg?theme=classic&timezone=Asia/Kolkata&timeFormat=24h&showSeconds=1&showDate=1&showDay=1&label=Local+Time)
+
+
+![Local Time](https://readmeme.eu.cc/api/time.svg?theme=retro&timezone=America/New_York&timeFormat=12h&showSeconds=0&showDate=0&showDay=0&label=NYC)
+
+
+
+![Daily Quote](https://readmeme.eu.cc/api/quote.svg?theme=ocean&quoteCategory=programming&label=Daily+Wisdom)
 
 
 
