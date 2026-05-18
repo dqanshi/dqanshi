@@ -7,20 +7,13 @@
 
 
 
-
-<h1>
+<p>
   <samp>📬 Telegram ID:</samp>
   <a href="https://t.me">
     <b>@am_dq_fan</b>
   </a>
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50" valign="middle">
-</h1>
-
-
-
-
-
-# <p><em>Telegram id <a href="http://www.telegram.com/@am_dq_fan">@am_dQ_fan</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> 
+</p>
 
 
 <a href="https://t.me/am_dq_fan"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a> <a href="https://t.me/am_dq_fan"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
